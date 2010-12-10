@@ -1,0 +1,4 @@
+.*
+!.gitignore
+I18N-Collate-*
+Debian_CPANTS.txt
