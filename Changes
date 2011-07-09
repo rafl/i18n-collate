@@ -1,3 +1,7 @@
+1.02  Sat, 09 Jul 2011 11:36:28 +0200
+  * Merge changes from the perl core.
+    - Port tests to Test::More.
+
 1.01  Fri, 10 Dec 2010 14:44:54 +0100
   * First upload to cpan. Identical with version 1.01 in the perl core. Upstream
     for this module is still blead perl.
